@@ -8,3 +8,5 @@ cd D0SC3rus
 chmod +x install.sh
 
 bash install.sh
+
+python2 DOsC3rus.py
