@@ -12,3 +12,11 @@ chmod +x install.sh
 bash install.sh
 
 python2 DOsC3rus.py
+
+# mas herramientas
+
+para realizar ataques DDos prueba mi botnet escrita en python3
+
+o mi framework UnkDDos disponibles solo para miembros del grupo
+
+si te gusta el script dejame una estrella en el repositorio:) 
