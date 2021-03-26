@@ -1,7 +1,7 @@
 # D0SC3rus
 script de DoS sencillo escrito en python
 
-![Captura1.png](https://raw.githubusercontent.com/C3rb3rus-666/ShieldGuardFB/master/assets/Captura1.png)
+![Captura1.png](https://raw.githubusercontent.com/C3rb3rus-666/D0sC3rus/master/assets/Captura1.png)
 
 git clone https://github.com/C3rb3rus-666/D0sC3rus
 
